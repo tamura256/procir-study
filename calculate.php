@@ -11,7 +11,7 @@ if ((is_numeric($num1)) && (is_numeric($num2))) {
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>計算結果表示</title>
+<title>計算結果表示テスト２</title>
 </head>
 <body>
 <p>

@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>テスト入力1</title>
+<title>テスト入力1テスト２</title>
 </head>
 <body>
 <p>入力</p>
