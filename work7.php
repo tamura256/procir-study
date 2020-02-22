@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>work7test1tesut2</title>
+<title>work7test1test2test3</title>
 </head>
 <body>
 <?php
